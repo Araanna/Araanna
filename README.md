@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mela</h1>
-<h3 align="center">A passionate frontend developer from the Philippines 🇵🇭</h3>
+<h3 align="center">A passionate frontend developer from the PH</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lace&show_icons=true&locale=en&layout=compact&theme=radical" alt="lace" />
@@ -9,7 +9,7 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/melanie-ladrillo-abalde" target="_blank">
+  <a href="[https://linkedin.com/in/melanie-ladrillo-abalde](https://www.linkedin.com/in/melanie-ladrillo-abalde-7283b8299/)" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melanie-ladrillo-abalde" height="30" width="40" />
   </a>
 </p>
