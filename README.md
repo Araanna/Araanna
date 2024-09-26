@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mela</h1>
 <h3 align="center">A passionate frontend developer from the PH</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lace&show_icons=true&locale=en&layout=compact&theme=radical" alt="lace" />
-</p>
+
 
 ---
 
