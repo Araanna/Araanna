@@ -12,9 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Point-Of-Sale-with-Inventory System**
- 
- 🌱 I’m currently learning **Python-And-Firebase-**
+
 
 📫 How to reach me:  **Instagram : [here](https://www.instagram.com/_melkyway/)**
 
