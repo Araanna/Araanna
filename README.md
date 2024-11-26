@@ -51,24 +51,26 @@
 
   <br/><br/>
 
+
   <!-- GitHub Stats -->
   <h2>📊 GitHub Stats</h2>
   <br>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Araanna&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araanna&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/><br/>
-
- <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <div align="center">
+    <table style="border: none;">
+      <tr>
+        <td>
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Araanna&theme=radical&hide_border=true" alt="GitHub Streak" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araanna&layout=compact&theme=radical" alt="Top Languages" />
+        </td>
+      </tr>
+    </table>
+  </div>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-
+  <br/><br/><br/>
   <br/><br/>
 
 <div align="center">
