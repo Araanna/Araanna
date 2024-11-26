@@ -5,7 +5,7 @@
 </h1>
 
   <!-- Profile Views -->
-  <h2 align="left">👁️ Profile Views</h2>
+ 
   <br>
   <img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" />
   
