@@ -4,7 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melanie+Abalde!;" />
 </h1>
 
-
+  <!-- Profile Views -->
+  <h2 align="left">👁️ Profile Views</h2>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" />
+  
+  <br/><br/><br/>
 
 <h3 align="center"> Art, Passion, Technology </h3>
 
@@ -54,20 +59,20 @@
   <!-- GitHub Stats -->
   <h2>📊 GitHub Stats</h2>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Araanna&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araanna&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Araanna&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araanna&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
 
-  <!-- Profile Views -->
-  <h2>👁️ Profile Views</h2>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" />
-  
-  <br/><br/><br/>
+
 </div>
 
 
