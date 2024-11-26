@@ -66,10 +66,11 @@
         </td>
       </tr>
     </table>
+        <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
   </div>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
+
   <br/><br/><br/>
   <br/><br/>
 
