@@ -42,15 +42,31 @@
 
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <h2>📊 GitHub Stats</h2>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Profile Views -->
+  <h2>👁️ Profile Views</h2>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Profile Views" />
+  
   <br/><br/><br/>
 </div>
-
 
 
 
