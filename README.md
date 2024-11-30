@@ -9,7 +9,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" />
   
-  <br/><br/><br/>
+  <br/>
 
 <h3 align="center"> Art, Passion, Technology </h3>
 
