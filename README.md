@@ -47,7 +47,7 @@
 <h2 align="center"> 📊 My GitHub Stats </h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px; height: 200px; width: 200px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araanna&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; height: 200px;" />
 </div>
 
