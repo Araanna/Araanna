@@ -1,61 +1,34 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Melanie+Abalde!;" />
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=false&vCenter=true&width=400&height=40&duration=4000&lines=Hi+There!+👋;+I'm+Melanie+Abalde!" />
 </h1>
 
-<div align="center">
-    <img src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952g4ubiv1590jpcedb33d6dqvb6kduerb0valgfyr6&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Cat waving GIF" width="200" height="200" />
+<img src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952g4ubiv1590jpcedb33d6dqvb6kduerb0valgfyr6&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Cat waving GIF" width="130" height="130" />
+<p><img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" width="100" /></p>
+
+<span style="font-size: 11px">
+Hi, I'm a full-stack developer working with SSR like Next.js and Expo, Django for REST & GraphQL APIs, and Docker for fast collaboration. I love learning new tech & reading docs.
+</span>
+
+<span style="font-size: 11px"><strong>📫</strong></span>
+<a href="https://www.instagram.com/_melkyway/" target="_blank"><img src="https://img.shields.io/badge/Insta-gray?style=flat-square&logo=instagram&logoColor=white" height="18" /></a>
+<a href="mailto:melanieabalde0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-gray?style=flat-square&logo=gmail&logoColor=white" height="18" /></a>
+<a href="https://www.linkedin.com/in/melanie-ladrillo-abalde-7283b8299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin&logoColor=white" height="18" /></a>
+
+<p style="font-size: 11px; margin-top: 4px;"><strong>🛠️ Skills</strong></p>
+<div style="display: flex; gap: 6px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="28" />
+  <img src="https://skillicons.dev/icons?i=docker" width="28" />
+  <img src="https://img.shields.io/badge/DRF-gray?style=flat-square&logo=django&logoColor=white" height="28" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="28" />
 </div>
 
-<!-- Profile Views -->
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" />
-</p>
-
-<h3 align="center">✨ Art, Passion, Technology ✨</h3>
-
-<div align="center">
-    <h4>📫 How to reach me:</h4>
-    <p>
-        <a href="https://www.instagram.com/_melkyway/" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-        <a href="mailto:melanieabalde0@gmail.com" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        </a>
-        <a href="https://www.linkedin.com/in/melanie-ladrillo-abalde-7283b8299/" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-    </p>
+<p style="font-size: 11px; margin-top: 8px;"><strong>📊 GitHub Stats</strong></p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical&hide_title=true&hide_border=true&hide_rank=false&count_private=true" width="270" />
+  <div>
+    <p style="font-size: 11px; margin: 0;"><strong>🌐 Top Languages</strong></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araanna&layout=compact&theme=radical&hide_border=true" width="200" />
+  </div>
 </div>
 
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,figma,tailwind,git,flutter,docker" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,sass,nodejs,typescript,express,supabase,mongodb,nextjs,php,postgresql" />
-</div>
-
-<hr/>
-
-
-
-<hr/>
-
-<h2 align="center"> 📊 My GitHub Stats </h2>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Araanna&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px; height: 200px; width: 270px; " />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Araanna&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; height: 200px; width: 210px;" />
-</div>
-
-
-<hr/>
-
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
