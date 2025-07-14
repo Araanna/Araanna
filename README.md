@@ -5,7 +5,7 @@
 <img src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952g4ubiv1590jpcedb33d6dqvb6kduerb0valgfyr6&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Cat waving GIF" width="130" height="130" />
 <p><img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" width="100" /></p>
 
-<span style="font-size: 11px">
+<span style="font-size: 8px">
 Hi, I'm a full-stack developer working with SSR like Next.js and Expo, Django for REST & GraphQL APIs, and Docker for fast collaboration. I love learning new tech & reading docs.
 </span>
 
