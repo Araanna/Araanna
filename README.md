@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Araanna&color=blue" alt="Profile Views" width="100" />
 </p>
 
-<a href="https://www.instagram.com/_melkyway/" target="_blank">
+<a href="https://www.instagram.com/arannnnnaaa/?hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Insta-gray?style=flat-square&logo=instagram&logoColor=white" height="18" />
 </a>
 <a href="mailto:melanieabalde0@gmail.com" target="_blank">
@@ -21,7 +21,7 @@
 <br />
 
 <span style="font-size: 8px; font-weight: bold;">
-  Hi! I'm a full-stack developer who enjoys building projects with Django and Python. Lately, I've also been working a lot with Laravel. I really enjoy creating APIs—whether it's REST, GraphQL, or real-time features like chat using WebSockets. In my free time, I like reading documentation and learning how things work.
+  I am a full-stack developer with a Bachelor of Science in Information Technology, majoring in Systems Development. I specialize in building web and mobile applications, with a strong proficiency in Next.js for frontend development and Laravel and Django for backend solutions. I have extensive experience developing applications and APIs, including WebSocket, REST API, and GraphQL integrations. In addition, I have volunteered as a coach in learning communities such as DjangoGirls CDO, reflecting my commitment to sharing knowledge and fostering growth in the tech community. My passion for technology drives me to continuously explore, learn, and apply innovative solutions.
 </span>
 
 
