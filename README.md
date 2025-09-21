@@ -23,7 +23,7 @@ function AboutMe() {
         Django REST Framework to create APIs that connect everything together.
         I’ve also shared what I know by volunteering as a coach at DjangoGirls
         CDO, which has been a great way to learn from others too. For me, coding
-        is about curiosity, collaboration, and solving is very hard  but every
+        is about curiosity, collaboration, and solving is very hard but every
         challenge is a chance to learn, grow, and create something meaningful
         with teamwork. ✨
       </p>
