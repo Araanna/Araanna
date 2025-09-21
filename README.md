@@ -27,7 +27,7 @@ import React from "react";
 
 export default function AboutMe() {
   return (
-    <span style={{ fontSize: "8px", fontWeight: "bold" }}>
+    <span>
       I enjoy building web and mobile apps, with a special love for using
       <strong> Django REST Framework </strong>
       to create APIs that connect everything together. I’ve also shared what I
@@ -40,7 +40,8 @@ export default function AboutMe() {
   );
 }
 
-
+<br />
+<br />
 ### 🛠️ Skills
 <div style="display: flex; gap: 6px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=nextjs" width="28" />
