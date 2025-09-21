@@ -25,30 +25,28 @@
 ```jsx
 import React from "react";
 
-export default function AboutMe() {
+function AboutMe() {
   return (
-    <span>
-      I enjoy building web and mobile apps, with a special love for using
-      <strong> Django REST Framework </strong>
-      to create APIs that connect everything together. I’ve also shared what I
-      know by volunteering as a coach at <strong>DjangoGirls CDO</strong>, which
-      has been a great way to learn from others too. For me, coding is about
-      curiosity, collaboration, and it is very hard—very hard—problems, but
-      that’s where the magic happens: every challenge is a chance to learn,
-      grow, and create something meaningful together with teamwork. ✨
-    </span>
+    <div>
+      <h1>Full Stack Developer in the Making</h1>
+      <p>Name: Melanie L. Abalde</p>
+      <p>Age: 21</p>
+      <p>Languages Spoken: English, Filipino</p>
+      <p>
+        I enjoy building web and mobile apps with a focus on creating powerful
+        APIs using Django REST Framework and connecting them to modern
+        frontends with Next.js and TypeScript. I believe coding is about
+        curiosity, teamwork, and solving tough problems that lead to meaningful
+        solutions. ✨
+      </p>
+    </div>
   );
 }
 
-<br />
-<br />
+export default AboutMe;
+
 ### 🛠️ Skills
-<div style="display: flex; gap: 6px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="28" />
-  <img src="https://skillicons.dev/icons?i=docker" width="28" />
-  <img src="https://img.shields.io/badge/DRF-gray?style=flat-square&logo=django&logoColor=white" height="28" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="28" />
-</div>
+<div style="display: flex; gap: 6px; align-items: center; flex-wrap: wrap;"> <img src="https://skillicons.dev/icons?i=nextjs" width="28" /> <img src="https://skillicons.dev/icons?i=django" width="28" /> <img src="https://skillicons.dev/icons?i=typescript" width="28" /> <img src="https://skillicons.dev/icons?i=docker" width="28" /> <img src="https://skillicons.dev/icons?i=postgresql" width="28" /> <img src="https://skillicons.dev/icons?i=fastapi" width="28" /> <img src="https://skillicons.dev/icons?i=graphql" width="28" /> <img src="https://skillicons.dev/icons?i=react" width="28" /> </div>
 
 <br />
 
