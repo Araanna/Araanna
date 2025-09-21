@@ -18,14 +18,28 @@
   <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin&logoColor=white" height="18" />
 </a>
 
-<br />
+---
 
-<span style="font-size: 8px; font-weight: bold;">
-  I am a full-stack developer with a Bachelor of Science in Information Technology, majoring in Systems Development. I specialize in building web and mobile applications, with a strong proficiency in Next.js for frontend development and Laravel and Django for backend solutions. I have extensive experience developing applications and APIs, including WebSocket, REST API, and GraphQL integrations. In addition, I have volunteered as a coach in learning communities such as DjangoGirls CDO, reflecting my commitment to sharing knowledge and fostering growth in the tech community. My passion for technology drives me to continuously explore, learn, and apply innovative solutions.
-</span>
+## 👩‍💻 About Me
 
+```jsx
+import React from "react";
 
-<br />
+export default function AboutMe() {
+  return (
+    <span style={{ fontSize: "8px", fontWeight: "bold" }}>
+      I enjoy building web and mobile apps, with a special love for using
+      <strong> Django REST Framework </strong>
+      to create APIs that connect everything together. I’ve also shared what I
+      know by volunteering as a coach at <strong>DjangoGirls CDO</strong>, which
+      has been a great way to learn from others too. For me, coding is about
+      curiosity, collaboration, and it is very hard—very hard—problems, but
+      that’s where the magic happens: every challenge is a chance to learn,
+      grow, and create something meaningful together with teamwork. ✨
+    </span>
+  );
+}
+
 
 ### 🛠️ Skills
 <div style="display: flex; gap: 6px; align-items: center;">
