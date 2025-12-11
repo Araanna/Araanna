@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Araanna&color=blue)
 
-[![Instagram](https://img.shields.io/badge/Instagram-gray?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/arannnnnaaa/?hl=en)
-[![Gmail](https://img.shields.io/badge/Gmail-gray?style=flat-square&logo=gmail&logoColor=white)](mailto:melanieabalde0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-ladrillo-abalde-7283b8299/)
 
 <img src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952g4ubiv1590jpcedb33d6dqvb6kduerb0valgfyr6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" />
